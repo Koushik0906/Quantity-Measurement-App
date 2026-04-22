@@ -31,7 +31,7 @@ public class QuantityMeasurementApp {
         }
     }
 
-    // Main method
+    // Main method yes main method
     public static void main(String[] args) {
 
         Feet value1 = new Feet(1.0);
